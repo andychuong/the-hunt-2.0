@@ -17,4 +17,4 @@ A swift based AR Scavenger Hunt Experience.
 4. The undo button can get rid of your old hints if you make a mistake.
 5. Have fun!!!
 
-[Demo](vimeo.com/307298016)
+[Demo](https://vimeo.com/307298016)
