@@ -17,9 +17,4 @@ A swift based AR Scavenger Hunt Experience.
 4. The undo button can get rid of your old hints if you make a mistake.
 5. Have fun!!!
 
-## Images
-![App Logo](https://g.chuong.io/thehunt/iconv1.png)
-![Startup Screen](https://g.chuong.io/thehunt/thehuntcover.png)
-![Instructions](https://g.chuong.io/thehunt/thehuntinstruct2.png)
-![Screenshot of app](https://g.chuong.io/thehunt/Screen%20Shot%202018-12-18%20at%2010.48.02%20AM.png)
-![Add text](https://g.chuong.io/thehunt/Screen%20Shot%202018-12-19%20at%209.49.03%20AM.png)
+![Demo](vimeo.com/307298016)
